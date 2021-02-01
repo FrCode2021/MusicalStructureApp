@@ -1,0 +1,11 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MusicalStructureApp</string>
+    <!-- Category name for Song Now Playing Menu-->
+    <string name="now_playing">Now Playing</string>
+    <!-- Category name for Song Library Menu-->
+    <string name="song_library">Music Library</string>
+    <!-- Category name for Main Menu-->
+    <string name="main_menu">Main Menu</string>
+
+</resources>
